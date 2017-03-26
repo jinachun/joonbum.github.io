@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on JOONBUM LEE</title>
+    <link>/project/index.xml</link>
+    <description>Recent content in Projects on JOONBUM LEE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Joonbum Lee</copyright>
+    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SHINY APP: Comparison of speeding measures across 104 traveled ways</title>
+      <link>/project/iap2-speeding2/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/iap2-speeding2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://104.131.57.64/App-IAP2-speedingmeasure/&#34; target=&#34;_blank&#34;&gt;This Shiny app&lt;/a&gt; allows users to test/visualize relationships between roadway characteristics and speeding measures across 104 traveled ways. This app requires authentication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SHINY APP: Drivers&#39; sensation seeking, glance, and driving behavior</title>
+      <link>/project/iap2-speeding/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/iap2-speeding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SHINY APP: Roadway characteristics and speeding behavior</title>
+      <link>/project/hfes-2016/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/hfes-2016/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://104.131.57.64/App-IAP2-speedingmeasure/&#34; target=&#34;_blank&#34;&gt;This Shiny app&lt;/a&gt; allows users to test/visualize relationships between roadway characteristics and speeding measures across 104 traveled ways. This app requires authentication.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

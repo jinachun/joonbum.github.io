@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on JOONBUM LEE</title>
+    <link>/publication_types/2/index.xml</link>
+    <description>Recent content in 2 on JOONBUM LEE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Joonbum Lee</copyright>
+    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Relationships between older drivers’ cognitive abilities as assessed on the MoCA and glance patterns during visual-manual radio tuning while driving</title>
+      <link>/publication/moca/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/moca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does order matter? Investigating the effect of sequence on glance duration during on-road driving</title>
+      <link>/publication/does-order-matter/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/does-order-matter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

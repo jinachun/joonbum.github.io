@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on JOONBUM LEE</title>
+    <link>/post/index.xml</link>
+    <description>Recent content in Works on JOONBUM LEE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Joonbum Lee</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SHRP2 IAP Phase 2</title>
+      <link>/post/iap2/</link>
+      <pubDate>Fri, 24 Mar 2017 12:00:00 +0000</pubDate>
+      
+      <guid>/post/iap2/</guid>
+      <description>
+
+&lt;h1 id=&#34;shrp-2-implementation-assistance-program&#34;&gt;SHRP 2 Implementation Assistance Program&lt;/h1&gt;
+
+&lt;h2 id=&#34;concept-to-countermeasure-research-to-deployment-using-the-shrp2-safety-data-nds-influence-of-roadway-design-features-on-episodic-speeding-in-washington-state&#34;&gt;Concept to Countermeasure – Research to Deployment Using the SHRP2 Safety Data (NDS) Influence of Roadway Design Features on Episodic Speeding in Washington State&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;My responsibilities in this project includes&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data reduction for GPS/RID data&lt;/li&gt;
+&lt;li&gt;Data visualization&lt;/li&gt;
+&lt;li&gt;Exprolatory analysis&lt;/li&gt;
+&lt;li&gt;Statistical anlysis to investigate relationships between roadway characteristics and speeding behavior&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

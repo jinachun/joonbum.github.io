@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on JOONBUM LEE</title>
+    <link>/tags/hugo/index.xml</link>
+    <description>Recent content in Hugo on JOONBUM LEE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Joonbum Lee</copyright>
+    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting started with the Academic framework for Hugo</title>
+      <link>/post/iap2/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>/post/iap2/</guid>
+      <description>
+
+&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
+
+&lt;p&gt;Key features:&lt;/p&gt;
+
+&lt;h1 id=&#34;shrp-2-implementation-assistance-program&#34;&gt;SHRP 2 Implementation Assistance Program&lt;/h1&gt;
+
+&lt;h2 id=&#34;concept-to-countermeasure-research-to-deployment-using-the-shrp2-safety-data-nds-influence-of-roadway-design-features-on-episodic-speeding-in-washington-state&#34;&gt;Concept to Countermeasure – Research to Deployment Using the SHRP2 Safety Data (NDS) Influence of Roadway Design Features on Episodic Speeding in Washington State&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;My responsibilities in this project includes&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Data reduction for GPS/RID data&lt;/li&gt;
+&lt;li&gt;Data visualization&lt;/li&gt;
+&lt;li&gt;Exprolatory analysis&lt;/li&gt;
+&lt;li&gt;Statistical anlysis to investigate relationships between roadway characteristics and speeding behavior&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[header]
+image: &amp;ldquo;headers/glance-sequence-wide.jpg&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
